@@ -31,5 +31,3 @@ cd Nordzy-cursors
 ./install.sh
 // I use cappucino frappe dark
 
-yay -S bluez blueman
-
