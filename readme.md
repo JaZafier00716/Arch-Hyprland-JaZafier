@@ -31,3 +31,5 @@ cd Nordzy-cursors
 ./install.sh
 // I use cappucino frappe dark
 
+https://vscode.dev/profile/github/e8948df9105b1ea071d79279b7faafb5
+
