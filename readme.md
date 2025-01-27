@@ -22,9 +22,14 @@ yay -S visual-studio-code-bin
 yay -S nerd-fonts pamixer nm-connection-editor
 
 yay -S nwg-look gtk nordic-theme papirus-icon-theme
+// go to gtk settings and set nordic widget theme and papirus icons
 
 yay -S github-cli
-
+gh auth login
+gh repo clone guillaumeboehm/Nordzy-cursors
+cd Nordzy-cursors
+./install.sh
+// I use cappucino frappe dark
 
 yay -S bluez blueman
 
