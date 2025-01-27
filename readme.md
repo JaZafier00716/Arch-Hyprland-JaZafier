@@ -11,7 +11,8 @@ yay -S hyprland-git
 // hyprland setup
 yay -S nano swww dunst waybar poweralertd
 yay -S kitty rofi thunar firefox-developer-edition looking-glass
-yay -S hyprpicker hyprlock-git wlogout
+yay -S hyprpicker-git hyprlock-git wlogout
+yay -S mate-polkit ffmpeg neovim viewnior pavucontrol starship wl-clipboard wf-recorder grimblast-git ffmpegthumbnailer tumbler playerctl noise-suppression-for-voice thunar-archive-plugin aylurs-gtk-shell sddm nwg-look nordic-theme papirus-icon-theme noto-fonts noto-fonts-emoji brightnessctl
 
 // repository download
 yay -S zip unzip
@@ -19,4 +20,11 @@ yay -S zip unzip
 yay -S visual-studio-code-bin
 // waybar
 yay -S nerd-fonts pamixer nm-connection-editor
+
+yay -S nwg-look gtk nordic-theme papirus-icon-theme
+
+yay -S github-cli
+
+
+yay -S bluez blueman
 
