@@ -21,7 +21,7 @@ echo "yay installed successfully."
 
 # Install Hyprland
 echo "Installing Hyprland..."
-yay -S hyprland --noconfirm
+yay -S hyprland-git --noconfirm
 echo "Hyprland installed successfully."
 
 # Install supporting tools and dependencies
@@ -68,6 +68,8 @@ echo "Recommended cursor theme: Cappuccino Frappe Dark"
 echo "Sync your VS Code profile by visiting the following link:"
 echo "https://vscode.dev/profile/github/e8948df9105b1ea071d79279b7faafb5"
 
+cd ~/arch_installer/
+
 # Moving config files
 echo "Moving config files..."
 echo "Creating Pictures folder inside your home folder..."
@@ -77,7 +79,7 @@ echo "Moving background images..."
 mv ./backgrounds ~/Pictures/
 
 echo "Moving Hyprland-related configuration files..."
-mv ./{hyprland, kitty, rofi, waybar, wlogout} ~/.config/
+mv hyprland kitty rofi waybar wlogout ~/.config/
 echo "Configuration files moved successfully."
 
 # Final notes
