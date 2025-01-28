@@ -112,7 +112,7 @@ cd Nordzy-cursors
 ---
 
 ## 📌 Additional Notes
-
+- This Project is inspired by [hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus/tree/main)
 - Ensure all dependencies are installed properly.
 - Use **mesa** as the OpenGL driver.
 - Customize your setup with themes, cursors, and additional utilities as needed.
@@ -121,7 +121,7 @@ cd Nordzy-cursors
 ---
 
 ## 🔗 References
-
+- [hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus/tree/main)
 - [Arch Boxes GitLab](https://gitlab.archlinux.org/archlinux/arch-boxes/-/packages)
 - [Arch Mirrors](https://archlinux.org/mirrors/)
 
