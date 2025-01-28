@@ -110,14 +110,17 @@ cd Nordzy-cursors
 > I recommend using **Cappuccino Frappe Dark** for the cursor theme.
 
 ---
+### Update config files
+- Copy `backgrounds` folder into `~/Pictures/` folder. (If it does not exist, create one with `mkdir Pictures` in your home folder)
+- Copy all folders (except `backgrounds`) into `~/.config/`, they contain all config files for some of the installed apps and for hyprland it self.
+- 
+---
 
 ## 📌 Additional Notes
 - This Project is inspired by [hyprland-titus](https://github.com/ChrisTitusTech/hyprland-titus/tree/main)
 - Ensure all dependencies are installed properly.
 - Use **mesa** as the OpenGL driver.
 - Customize your setup with themes, cursors, and additional utilities as needed.
-- Copy `backgrounds` folder into `~/Pictures/` folder. (If it does not exist, create one with `mkdir Pictures` in your home folder)
-- Copy all folders (except `backgrounds`) into `~/.config/`, they contain all config files for some of the installed apps and for hyprland it self.
 
 ---
 
