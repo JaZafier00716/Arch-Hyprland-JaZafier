@@ -77,11 +77,7 @@ echo "Moving background images..."
 mv ./backgrounds ~/Pictures/
 
 echo "Moving Hyprland-related configuration files..."
-mv hyprland ~/.config/
-mv kitty ~/.config/
-mv rofi ~/.config/
-mv waybar ~/.config/
-mv wlogout ~/.config/
+mv ./{hyprland, kitty, rofi, waybar, wlogout} ~/.config/
 echo "Configuration files moved successfully."
 
 # Final notes
