@@ -21,7 +21,7 @@ echo "yay installed successfully."
 
 # Install Hyprland
 echo "Installing Hyprland..."
-yay -S hyprland-git --noconfirm
+yay -S hyprland --noconfirm
 echo "Hyprland installed successfully."
 
 # Install supporting tools and dependencies
