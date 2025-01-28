@@ -48,7 +48,7 @@ rm -rf yay
 ### Install Hyprland
 
 ```bash
-yay -S hyprland-git
+yay -S hyprland
 ```
 
 > **Note:** Ensure that `mesa` is installed as the OpenGL driver. The `virgl` drivers are included in `mesa`.
