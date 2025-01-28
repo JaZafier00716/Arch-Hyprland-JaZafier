@@ -15,8 +15,9 @@ Or you can use Linutil by Chris Titus
 ```bash
 curl -fsSL https://christitus.com/linux | sh
 ```
-
----
+# You can Use my install script for hyprland setup
+`bash ./script.sh`
+# Or you can Install it manualy
 
 ## 🛠️ System Update and Base Packages
 
