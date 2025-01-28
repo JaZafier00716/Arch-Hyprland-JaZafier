@@ -11,6 +11,11 @@ You can download the latest Arch QEMU basic image from:
 - [**Arch Boxes GitLab**](https://gitlab.archlinux.org/archlinux/arch-boxes/-/packages)
 - [**Arch Mirrors**](https://archlinux.org/mirrors/)
 
+Or you can use Linutil by Chris Titus
+```bash
+curl -fsSL https://christitus.com/linux | sh
+```
+
 ---
 
 ## 🛠️ System Update and Base Packages
