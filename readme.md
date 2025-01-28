@@ -116,7 +116,7 @@ cd Nordzy-cursors
 - Ensure all dependencies are installed properly.
 - Use **mesa** as the OpenGL driver.
 - Customize your setup with themes, cursors, and additional utilities as needed.
-- Copy all folders into ~/.config/ folder
+- Copy all folders into ~/.config/
 
 ---
 
