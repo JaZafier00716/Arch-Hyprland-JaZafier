@@ -111,9 +111,9 @@ cd Nordzy-cursors
 
 ---
 ### Update config files
-- Copy `backgrounds` folder into `~/Pictures/` folder. (If it does not exist, create one with `mkdir Pictures` in your home folder)
+- Copy `backgrounds` folder into `~/Pictures/` folder. (If it does not exist, create one with `mkdir Pictures` in your home directory)
 - Copy all folders (except `backgrounds`) into `~/.config/`, they contain all config files for some of the installed apps and for hyprland it self.
-- 
+  
 ---
 
 ## 📌 Additional Notes
