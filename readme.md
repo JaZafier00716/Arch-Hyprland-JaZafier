@@ -116,7 +116,8 @@ cd Nordzy-cursors
 - Ensure all dependencies are installed properly.
 - Use **mesa** as the OpenGL driver.
 - Customize your setup with themes, cursors, and additional utilities as needed.
-- Copy all folders into `~/.config/`, they contain all config files for some of the installed apps and for hyprland it self
+- Copy `backgrounds` folder into `~/Pictures/` folder. (If it does not exist, create one with `mkdir Pictures` in your home folder)
+- Copy all folders (except `backgrounds`) into `~/.config/`, they contain all config files for some of the installed apps and for hyprland it self.
 
 ---
 
