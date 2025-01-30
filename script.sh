@@ -21,7 +21,7 @@ echo "yay installed successfully."
 
 # Install Hyprland
 echo "Installing Hyprland..."
-yay -S hyprland-git --noconfirm
+yay -S hyprland --noconfirm
 echo "Hyprland installed successfully."
 
 # Install supporting tools and dependencies
@@ -79,7 +79,7 @@ echo "Moving background images..."
 mv ./backgrounds ~/Pictures/
 
 echo "Moving Hyprland-related configuration files..."
-mv hyprland kitty rofi waybar wlogout ~/.config/
+mv hypr kitty rofi waybar wlogout ~/.config/
 echo "Configuration files moved successfully."
 
 # Final notes
